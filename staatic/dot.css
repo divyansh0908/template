@@ -1,0 +1,132 @@
+.dot1 {
+  height: 205px;
+  width: 205px;
+  background-color: #ff5973;
+  border-radius: 50%;    
+  position: fixed;
+  top: 70%;   
+  right: -100px;
+  opacity: 50%;
+}
+.vl7 {
+    height: 11px;
+    width: 11px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 20px;
+    opacity: 40%;
+  }
+
+  /*.vl8 {
+    height: 80px;
+    width: 80px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: -320px;
+    opacity: 40%;
+  }*/
+  .vl9 {
+    height: 110px;
+    width: 110px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 1025px;
+    margin-top: 120px;
+    opacity: 90%;
+  }
+  .vl10 {
+    height: 11px;
+    width: 11px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 20px;
+    opacity: 40%;
+  }
+  .vl11 {
+    height: 11px;
+    width: 11px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 20px;
+    opacity: 40%;
+  }
+  .vl12 {
+    height: 11px;
+    width: 11px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 20px;
+    opacity: 40%;
+  }
+  .vl13 {
+    height: 11px;
+    width: 11px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 20px;
+    opacity: 40%;
+  }
+  .vl14 {
+    height: 11px;
+    width: 11px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 20px;
+    opacity: 40%;
+  }
+  .vl15 {
+    height: 11px;
+    width: 11px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 125px;
+    margin-top: 20px;
+    opacity: 40%;
+  }
+  .vl16 {
+    height: 8px;
+    width: 8px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin: 250px;
+    margin-top: -10px;
+    opacity: 70%;
+  }
+  .vl17 {
+    height: 11px;
+    width: 11px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 605px;
+    margin-top: 200px;
+    opacity: 40%;
+  }
+
+  .vl18 {
+    height: 5px;
+    width: 5px;
+    background-color: rgb(207, 93, 93);
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 120px;
+    opacity: 40%;
+  }
