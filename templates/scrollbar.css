@@ -1,0 +1,21 @@
+::-webkit-scrollbar{
+
+    width: 25px;
+
+}
+::-webkit-scrollbar{border: 7px #ff5973;
+                    box-shadow: inset 0 0 2.5px 2px rgba(0,0,0,.5);
+
+
+}
+::-webkit-scrollbar{
+    background:linear-gradient(
+        45deg,
+        #528d21,
+        #ff5973
+
+
+
+    ) ;
+    border-radius: 25px;  
+}
